@@ -2,7 +2,7 @@
 # Liscensed Clinical Social Worker
 
 ### About Me 
-Hello! I am an experienced college student and childcare professional with over 3 years of proven expertise in sociology and family (child) development. 
+Hello! I am Molly Wisinski, and am an experienced college student and childcare professional with over 3 years of proven expertise in sociology and family (child) development. 
 
 
 With skills in organization, communication, empathy, and leadership I am able to complete assignments, communicate with professors, and maintain an internship. I am adept at using Outlook’s OneDrive, Excel, and SPSS. 
