@@ -34,7 +34,7 @@ Result/Summary: I created five faux folders in order to organize my files. Learn
 
 ***
 #### Inventory Manager/Charts in Excel
- - image
+![Excel graph](GraphExcel.png)
 Tools: Excel
 Challenges: Learning new skills within Excel and navigating the frustrations that came along with it.
 Result/Summary: For this project I used a set of data I had previously entered into Excel, and I created a graph to appropriately analyze the profit margin. Learning to make appropriate graphs will be one of the most useful skills I will have learned seeing as I am going into the social science field, which is based on data, evidence, and statistics. 
