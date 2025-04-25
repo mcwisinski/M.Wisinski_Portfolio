@@ -1,5 +1,5 @@
 ![BANNER](Banner.jpeg)
-# Liscensed Clinical Social Worker
+# Licensed Clinical Social Worker
 
 ### About Me 
 Hello! I am Molly Wisinski, and am an experienced college student and childcare professional with over 3 years of proven expertise in sociology and family (child) development. 
