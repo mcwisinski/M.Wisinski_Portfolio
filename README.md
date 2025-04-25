@@ -14,7 +14,7 @@ My invaluable skill set, commitment to quality work, and passion for social just
 You can find me on [LinkedIn](https://www.linkedin.com/in/molly-wisinski-485707361) and Instagram.
 
 ### Education 
-BSc in [Major]
+BSc in Sociology
 Loyola University, MD
 
 ### Projects
